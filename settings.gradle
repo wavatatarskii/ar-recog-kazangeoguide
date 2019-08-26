@@ -1,0 +1,3 @@
+include ':kaikazanguide'
+include ':plugins'
+include ':wikitude-sdk'
